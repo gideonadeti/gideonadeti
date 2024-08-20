@@ -1,4 +1,4 @@
-<h1 align="center">Languages and Tools</h1>
+<h1 align="center">I code with</h1>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
