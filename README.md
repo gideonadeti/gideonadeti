@@ -1,6 +1,6 @@
-<h1 align="center">I code with</h1>
+<h1>I code with</h1>
 
-<p align="center">
+<p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
