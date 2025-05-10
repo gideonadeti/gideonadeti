@@ -21,10 +21,10 @@ I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gideonadeti&show_icons=true&locale=en" alt="gideonadeti" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonadeti&show_icons=true&locale=en&layout=compact" alt="gideonadeti" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gideonadeti&" alt="gideonadeti" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonadeti&show_icons=true&locale=en&layout=compact" alt="gideonadeti" />
 </div>
 
 ---
