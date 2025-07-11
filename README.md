@@ -1,21 +1,29 @@
 ## 👋 Hi there!
 
-I'm a **Full-Stack Developer** experienced in building web applications using technologies like **TypeScript**, **Next.js**, **NestJS**, **PostgreSQL**, and **MongoDB**. I'm proficient in both frontend and backend development, preferring the latter.
+Welcome to my GitHub profile.
 
-I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com), and I now continue to grow by using resources like [Developer Roadmaps](https://roadmap.sh), building personal projects, and collaborating with others.
+I'm a **Full-Stack Developer** experienced in building and deploying web applications using technologies like **TypeScript**, **Next.js**, **NestJS**, **PostgreSQL**, **MongoDB**, **Docker**, and **AWS**. I'm proficient in both frontend and backend development, with a strong preference and specialization in the latter.
+
+I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I now continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
+
+I value clear communication and efficient problem solving. I work well in collaborative teams, and I can operate independently when needed. I'm committed to best practices, and I deliver quality work on time. I'm always learning and improving to stay sharp and deliver better results.
+
+I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects.  
+Feel free to reach out!
 
 ---
 
 ### 🔧 Key Technologies
 
-- **Programming Language**: TypeScript  
-- **Frontend**: Next.js, Shadcn UI, Tailwind CSS  
-- **Backend**: NestJS  
-- **Databases**: PostgreSQL, MongoDB (via Prisma ORM)  
-- **Caching**: Redis  
-- **Testing**: Jest, Playwright  
-- **DevOps**: Docker, GitHub Actions, AWS (Route53, SES, EC2, VPC, S3)  
-- **Others**: HTML, CSS, JavaScript, React.js, Express.js, Git, GitHub  
+- **Language**: TypeScript
+- **Frontend**: Next.js, Shadcn UI, Tailwind CSS
+- **Backend**: NestJS
+- **Databases**: PostgreSQL, MongoDB (via Prisma)
+- **Caching**: Redis
+- **Testing**: Jest, Playwright, Postman
+- **DevOps**: Docker, Docker Compose, GitHub Actions, AWS, NGINX
+- **Software Architecture Diagramming**: Excalidraw
+- **Others**: Express.js, React.js, JavaScript, HTML, CSS, SQL, SQLite, Firebase, Supabase, Vitest, Git, GitHub, Linux
 
 ---
 
@@ -25,8 +33,3 @@ I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The
   <img src="https://github-readme-stats.vercel.app/api?username=gideonadeti&show_icons=true&locale=en" alt="gideonadeti" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonadeti&show_icons=true&locale=en&layout=compact" alt="gideonadeti" />
 </div>
-
----
-
-🚀 I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects.  
-📫 Feel free to reach out!
