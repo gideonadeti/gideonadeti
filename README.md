@@ -15,7 +15,7 @@ Feel free to reach out!
 
 ### 🔧 Key Technologies
 
-- **Language**: TypeScript
+- **Programming Language**: TypeScript
 - **Frontend**: Next.js, Shadcn UI, Tailwind CSS
 - **Backend**: NestJS
 - **Databases**: PostgreSQL, MongoDB (via Prisma)
