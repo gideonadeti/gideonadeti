@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** experienced in building and deploying web applica
 
 I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I now continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
 
-I value clear communication and efficient problem solving. I work well in collaborative teams, and I can operate independently when needed. I'm committed to best practices, and I deliver quality work on time. I'm always learning and improving to stay sharp and deliver better results.
+I value clear communication and efficient problem-solving. I work effectively in collaborative teams and can also operate independently when necessary. I'm committed to best practices, and I deliver quality work on time. I'm always learning and improving to stay sharp and deliver better results.
 
 I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects.  
 Feel free to reach out!
@@ -18,7 +18,7 @@ Feel free to reach out!
 - **Programming Language**: TypeScript
 - **Frontend**: Next.js, Shadcn UI, Tailwind CSS
 - **Backend**: NestJS
-- **Databases**: PostgreSQL, MongoDB (via Prisma)
+- **Databases**: PostgreSQL, MongoDB (both via Prisma ORM)
 - **Caching**: Redis
 - **Testing**: Jest, Playwright, Postman
 - **DevOps**: Docker, Docker Compose, GitHub Actions, AWS, NGINX
