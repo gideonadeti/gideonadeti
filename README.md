@@ -21,7 +21,7 @@ Feel free to reach out!
 - **Databases**: PostgreSQL, MongoDB (both via Prisma ORM)
 - **Caching**: Redis
 - **Testing**: Jest, Playwright, Postman
-- **DevOps**: Docker, Docker Compose, GitHub Actions, AWS, NGINX
+- **DevOps**: Docker, Docker Compose, GitHub Actions, AWS, Vercel, Render, NGINX
 - **Software Architecture Diagramming**: Excalidraw
 - **Others**: Express.js, React.js, JavaScript, HTML, CSS, SQL, SQLite, Firebase, Supabase, Vitest, Git, GitHub, Linux
 
