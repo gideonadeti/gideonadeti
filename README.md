@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile.
 
-I'm a Full-Stack Developer experienced in building, deploying, and maintaining web applications using technologies like NestJS, Next.js, MongoDB, PostgreSQL, Docker, and AWS. I specialize in backend, am proficient in frontend, and have a solid foundation in DevOps.
+I'm a Full-Stack Developer experienced in building, deploying, and maintaining web applications using technologies like NestJS, Next.js, PostgreSQL, MongoDB, Docker, and AWS. I specialize in backend, am proficient in frontend, and have a solid foundation in DevOps.
 
-I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I now continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
+I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
 
-I value clear communication and efficient problem-solving. I work effectively in collaborative teams and can also operate independently when necessary. I'm committed to best practices, and I deliver quality work on time. I'm always learning and improving to stay sharp and deliver better results.
+I value clear communication and efficient problem-solving. I work effectively in collaborative teams and can also operate independently when necessary. I'm committed to best practices and delivering quality work on time. I'm always learning and improving to stay sharp and produce better results.
 
 I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects.  
 Feel free to reach out!
@@ -16,8 +16,8 @@ Feel free to reach out!
 ### 🔧 Key Technologies
 
 - **Programming Language**: TypeScript
-- **Frontend**: Next.js, Shadcn UI, Tailwind CSS
 - **Backend**: NestJS
+- **Frontend**: Next.js, Shadcn UI, Tailwind CSS
 - **Databases**: PostgreSQL, MongoDB (both via Prisma ORM)
 - **Caching**: Redis
 - **Testing**: Jest, Playwright, Postman
