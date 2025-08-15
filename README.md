@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'm a **Full-Stack Developer** experienced in building and deploying web applications using technologies like **TypeScript**, **Next.js**, **NestJS**, **PostgreSQL**, **MongoDB**, **Docker**, and **AWS**. I'm proficient in both frontend and backend development, with a strong preference and specialization in the latter.
+I'm a Full-Stack Developer experienced in building, deploying, and maintaining web applications using technologies like TypeScript, Next.js, NestJS, PostgreSQL, MongoDB, Docker, and AWS. I specialize in backend, am proficient in frontend, and have a solid foundation in DevOps.
 
 I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I now continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
 
