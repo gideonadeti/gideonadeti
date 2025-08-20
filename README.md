@@ -15,15 +15,20 @@ Feel free to reach out!
 
 ### 🔧 Key Technologies
 
-- **Programming Language**: TypeScript
-- **Backend**: NestJS
-- **Frontend**: Next.js, Shadcn UI, Tailwind CSS
-- **Databases**: PostgreSQL, MongoDB (both via Prisma ORM)
-- **Caching**: Redis
-- **Testing**: Jest, Playwright, Postman
-- **DevOps**: Docker, Docker Compose, GitHub Actions, AWS, Vercel, Render, NGINX
-- **Software Architecture Diagramming**: Excalidraw
-- **Others**: Express.js, React.js, JavaScript, HTML, CSS, SQL, SQLite, Firebase, Supabase, Vitest, Git, GitHub, Linux
+- **Programming Language:** TypeScript  
+- **Backend:** NestJS  
+- **Microservices:** gRPC, RabbitMQ  
+- **Auth:** Clerk, JWT, Passport.js  
+- **Databases:** PostgreSQL, MongoDB (both via Prisma ORM)  
+- **Caching:** Redis  
+- **DevOps:** Docker, Docker Compose, AWS, NGINX  
+- **Testing:** Jest, Playwright, Postman  
+- **Frontend:** Next.js, Shadcn UI, Tailwind CSS  
+- **Data Fetching & State Management:** TanStack Query, Axios  
+- **Version Control & Collaboration:** Git, GitHub  
+- **Operating Systems:** Linux, Windows  
+- **Software Architecture Diagramming:** Excalidraw  
+- **Others:** JavaScript, HTML, CSS, Node.js, Express.js, Sass, Bootstrap, React.js, SQL, SQLite, Firebase, Supabase, Vitest
 
 ---
 
