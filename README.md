@@ -40,3 +40,5 @@ Feel free to reach out!
   <img src="https://github-readme-stats.vercel.app/api?username=gideonadeti&show_icons=true&locale=en" alt="gideonadeti" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gideonadeti&show_icons=true&locale=en&layout=compact" alt="gideonadeti" />
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=178742105)
