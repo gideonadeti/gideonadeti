@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gideonadeti)
+
 ## 👋🏽 Hi there!
 
 Welcome to my GitHub profile.
