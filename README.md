@@ -25,7 +25,7 @@ Feel free to reach out!
 - **Auth:** Clerk, Passport.js, JWT
 - **Frontend:** Next.js, React, Shadcn UI, Tailwind CSS, Bootstrap, Sass, HTML, CSS
 - **Data Fetching & State Management:** Axios, TanStack Query, Zustand
-- **DevOps:** Docker, Docker Compose, AWS (EC2, S3), NGINX
+- **DevOps:** Docker, Docker Compose, AWS (EC2, S3), Nginx
 - **Testing:** Jest, Vitest, Playwright, Postman
 - **Version Control & Collaboration:** Git, GitHub
 - **Operating Systems:** Linux, Windows
