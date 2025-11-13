@@ -4,33 +4,32 @@
 
 Welcome to my GitHub profile.
 
-I'm a self-taught, backend-leaning Full-Stack Software Engineer experienced in designing, building, deploying, and maintaining web applications using technologies like NestJS, Next.js, PostgreSQL, MongoDB, Docker, and AWS.
+I'm a self-taught, backend-leaning Full-Stack Software Engineer with experience in designing, developing, deploying, and maintaining web applications using technologies such as NestJS, Next.js, PostgreSQL, MongoDB, Docker, and AWS.
 
-I began my journey through [freeCodeCamp](https://www.freecodecamp.org) and [The Odin Project](https://www.theodinproject.com). I continue growing by building personal projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
+I began my journey through [freeCodeCamp](https://www.freecodecamp.org), then [The Odin Project](https://www.theodinproject.com). I continue to grow by building personal projects, contributing to open-source projects, collaborating with others, and leveraging resources like [Developer Roadmaps](https://roadmap.sh).
 
 I value clear communication and efficient problem-solving. I work effectively in collaborative teams and can also operate independently when necessary. I'm committed to best practices and delivering quality work on time. I'm always learning and improving to stay sharp and produce better results.
 
-I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects.  
+I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects. 
 Feel free to reach out!
 
 ---
 
-### 🔧 Key Technologies
+## 🔧 Key Technologies
 
-- **Programming Language:** TypeScript  
-- **Backend:** NestJS  
-- **Microservices:** gRPC, RabbitMQ  
-- **Auth:** Clerk, JWT, Passport.js  
-- **Databases:** PostgreSQL, MongoDB (both via Prisma ORM)  
-- **Caching:** Redis  
-- **DevOps:** Docker, Docker Compose, AWS, NGINX  
-- **Testing:** Jest, Playwright, Postman  
-- **Frontend:** Next.js, Shadcn UI, Tailwind CSS  
-- **Data Fetching & State Management:** TanStack Query, Axios  
-- **Version Control & Collaboration:** Git, GitHub  
-- **Operating Systems:** Linux, Windows  
-- **Software Architecture Diagramming:** Excalidraw  
-- **Others:** JavaScript, HTML, CSS, Node.js, Express.js, Sass, Bootstrap, React.js, SQL, SQLite, Firebase, Supabase, Vitest
+- **Programming Languages:** TypeScript, JavaScript, SQL
+- **Backend:** NestJS, Express.js, Node.js
+- **Microservices:** gRPC, RabbitMQ
+- **Databases & ORM:** PostgreSQL, MongoDB, Supabase, Firebase, SQLite, Prisma ORM
+- **Caching:** Redis
+- **Auth:** Clerk, Passport.js, JWT
+- **Frontend:** Next.js, React, Shadcn UI, Tailwind CSS, Bootstrap, Sass, HTML, CSS
+- **Data Fetching & State Management:** TanStack Query, Axios
+- **DevOps:** Docker, Docker Compose, AWS (EC2, S3), NGINX
+- **Testing:** Jest, Vitest, Playwright, Postman
+- **Version Control & Collaboration:** Git, GitHub
+- **Operating Systems:** Linux, Windows
+- **Software Architecture Diagramming:** Excalidraw
 
 ---
 
