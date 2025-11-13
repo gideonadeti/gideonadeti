@@ -15,7 +15,7 @@ Feel free to reach out!
 
 ---
 
-## 🔧 Key Technologies
+### 🔧 Key Technologies
 
 - **Programming Languages:** TypeScript, JavaScript, SQL
 - **Backend:** NestJS, Express.js, Node.js
