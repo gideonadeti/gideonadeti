@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=gideonadeti&color=yellow&base=88&abbreviated=true)
 
-## Hello there! 👋🏽
+## Hi there! 👋🏽
 
 Welcome to my GitHub profile.
 
