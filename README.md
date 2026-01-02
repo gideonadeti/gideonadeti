@@ -4,8 +4,6 @@
   </a>
 </div>
 
----
-
 ## Hi there! 👋🏽
 
 Welcome to my GitHub profile.
@@ -37,8 +35,6 @@ I began my journey through [freeCodeCamp](https://www.freecodecamp.org), then [T
 - **Version Control & Collaboration:** Git, GitHub
 - **Operating Systems:** Linux, Windows
 - **Software Architecture Diagramming:** Excalidraw
-
----
 
 I'm open to full-time roles, freelance work, and collaboration on meaningful and impactful projects. 
 Feel free to reach out!
